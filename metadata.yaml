@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40280'
     url: http://www.gutenberg.org/2009/agents/40280
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39888#Thirty-Days-in-Lithuania-in-1919
 gutenberg_issued: '2012-06-01'
 gutenberg_type: Text
 identifiers:
